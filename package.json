@@ -1,0 +1,14 @@
+{
+  "name": "tristanknol.nl",
+  "version": "1.0.0",
+  "description": "scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tristan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
