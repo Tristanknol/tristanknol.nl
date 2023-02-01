@@ -142,6 +142,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="hotelwildthout.nl">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="kootLive">
         <serverdata>
           <mappings>
